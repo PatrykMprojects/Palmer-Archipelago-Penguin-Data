@@ -1,2 +1,2 @@
-# Palmer Archipelago Penguin Data
+# Palmer Archipelago Penguin Dataset
 The Palmer Archipelago Penguin Data project focuses on studying penguin populations in the Palmer Archipelago region of Antarctica. The project aims to collect, analyze, and interpret data related to various penguin species, their behaviour, population dynamics, and environmental factors affecting their habitat. The following supervised learning models were used to tackle this classification problem Logistic Regression, KNN, Random Forest and Bagging.
